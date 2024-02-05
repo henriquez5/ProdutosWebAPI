@@ -11,7 +11,7 @@ Namespace ProdutosWebAPI
         Private _produtoService As IProdutoService = New ProdutoService
 
         <HttpGet>
-        Public Function ListarClientes(ByVal filtro As String)
+        Public Function ListarProdutos(ByVal filtro As String)
             Try
                 Dim buscarProdutos As List(Of Produto) = _produtoService.ObterProdutos(filtro)
 
@@ -42,9 +42,9 @@ Namespace ProdutosWebAPI
         End Function
 
         <HttpPut>
-        Public Function AtualizarCliente(ByVal id As Integer, <FromBody> ByVal atualizarProduto As Produto)
+        Public Function AtualizarProduto(ByVal id As Integer, <FromBody> ByVal produto As Produto)
             Try
-                Dim produtoUpdate As Produto = _produtoService.AtualizarProduto(id, atualizarProduto)
+                Dim produtoUpdate As Produto = _produtoService.AtualizarProduto(id, produto)
 
                 If produtoUpdate Is Nothing Then
                     Dim resp = New HttpResponseMessage(HttpStatusCode.NotFound)
@@ -58,9 +58,9 @@ Namespace ProdutosWebAPI
         End Function
 
         <HttpDelete>
-        Public Function DeletarCliente(ByVal id As Integer)
+        Public Function DeletarProduto(ByVal id As Integer)
             Try
-                Dim produtoDeletar As Produto = _produtoService.RemoverCliente(id)
+                Dim produtoDeletar As Produto = _produtoService.RemoverProduto(id)
 
                 If produtoDeletar Is Nothing Then
                     Throw New Exception("Nenhum Cliente foi deletado.")

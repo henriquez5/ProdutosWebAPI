@@ -14,7 +14,7 @@
 
             Return buscarClientes
         Catch ex As Exception
-            Throw New Exception("Houve um erro ao buscar o(s) cliente(s): " & ex.Message)
+            Throw New Exception("Houve um erro ao buscar o(s) produtos(s): " & ex.Message)
         End Try
     End Function
 
@@ -39,11 +39,11 @@
 
             Return resultProdutoAtualizar
         Catch ex As Exception
-            Throw New Exception("Houve um erro ao atualizar o cliente: " & ex.Message)
+            Throw New Exception("Houve um erro ao atualizar o produto: " & ex.Message)
         End Try
     End Function
 
-    Public Function RemoverCliente(ByVal id As Integer) As Produto Implements IProdutoService.RemoverCliente
+    Public Function RemoverCliente(ByVal id As Integer) As Produto Implements IProdutoService.RemoverProduto
         Try
             Dim resultProdutoRemover As New Produto()
 
@@ -51,7 +51,7 @@
 
             Return resultProdutoRemover
         Catch ex As Exception
-            Throw New Exception("Houve um erro ao remover o cliente: " & ex.Message)
+            Throw New Exception("Houve um erro ao remover o produto: " & ex.Message)
         End Try
     End Function
 End Class

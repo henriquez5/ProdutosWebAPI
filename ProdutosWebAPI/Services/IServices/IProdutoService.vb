@@ -5,6 +5,6 @@
 
     Function AtualizarProduto(ByVal idProduto As Integer, ByVal produtoAtualizado As Produto) As Produto
 
-    Function RemoverCliente(ByVal id As Integer) As Produto
+    Function RemoverProduto(ByVal id As Integer) As Produto
 
 End Interface
