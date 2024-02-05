@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "Nome": "Copo",
+    "Categoria": "Utensilio",
+    "Preco": 3.0
+  },
+  {
+    "Id": 3,
+    "Nome": "Fone de Ouvido Bluetooth",
+    "Categoria": "Eletronico",
+    "Preco": 15.0
+  },
+  {
+    "Id": 0,
+    "Nome": "Adaptador USB Bluetooth",
+    "Categoria": "Eletronico",
+    "Preco": 13.0
+  }
+]

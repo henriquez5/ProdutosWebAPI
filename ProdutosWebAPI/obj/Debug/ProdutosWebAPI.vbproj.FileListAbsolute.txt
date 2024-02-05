@@ -1,0 +1,82 @@
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.pdb
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\Antlr3.Runtime.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\EntityFramework.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\Microsoft.Web.Infrastructure.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\Newtonsoft.Json.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.Formatting.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.WebRequest.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Helpers.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.WebHost.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Mvc.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Optimization.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Providers.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Razor.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Deployment.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Razor.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\WebGrease.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\EntityFramework.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\Newtonsoft.Json.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.Formatting.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.WebRequest.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Helpers.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.WebHost.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Mvc.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Razor.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Deployment.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Razor.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ResolveAssemblyReference.cache
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.Resources.resources
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\GenerateResource.read.1.tlog
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\GenerateResource.write.1.tlog
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.dll
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.xml
+c:\_aspn\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.pdb
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.dll.config
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.pdb
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\Antlr3.Runtime.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\EntityFramework.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Helpers.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Mvc.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Optimization.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Providers.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Razor.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\WebGrease.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\EntityFramework.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\Newtonsoft.Json.pdb
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\Newtonsoft.Json.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Helpers.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Mvc.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.Razor.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.vbproj.AssemblyReference.cache
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.Resources.resources
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.vbproj.GenerateResource.cache
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.vbproj.CoreCompileInputs.cache
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.vbproj.CopyComplete
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.dll
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.xml
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\obj\Debug\ProdutosWebAPI.pdb
+C:\Users\henri\DOTNET PROJETOS AFORA\Macoratti\ProdutosWebAPI\ProdutosWebAPI\bin\ProdutosWebAPI.tlb
